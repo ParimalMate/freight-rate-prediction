@@ -1,0 +1,9 @@
+.venv/
+data_clean/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+loom_script.md
+
+# assessment instructions (not redistributed)
+freight-rate-ml-assessment-1-.pdf

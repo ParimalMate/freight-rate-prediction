@@ -1,0 +1,10 @@
+matplotlib>=3.8,<4
+numpy>=1.26,<3
+pandas>=2.0,<3
+# --- solution dependencies (freight_rate_model.ipynb) ---
+scikit-learn>=1.5,<2
+scipy>=1.11,<2
+lightgbm>=4.0,<5          # macOS: also run `brew install libomp`
+ipykernel>=6
+nbformat>=5.9
+nbclient>=0.10
